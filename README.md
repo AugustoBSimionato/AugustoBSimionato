@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é Augusto!
+- 👀 Estou interessado atualmente em aprender as liguagens mais utilizadas na criação de um site,
+- 🌱 E atualmente estou estudando HTML5 e CSS3.
+- 💞️ Busco compartilhar minha experiência ao longo aprendizado, para ajudar outras pessoas assim como eu estão aprendendo algo na parte de dev web!
+- 📫 Você pode entrar em contato comigo pelo e-mai: guto.baroni@gmail.com.
