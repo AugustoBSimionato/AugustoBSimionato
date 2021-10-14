@@ -2,7 +2,7 @@
 - 💡 Estou interessado atualmente em aprender as liguagens mais utilizadas na criação de um site!< I am currently interested in learning the most used languages in creating a website! >
 - 💻 E atualmente estou estudando Engenharia de Software na UTFPR-CP! < And I'm currently studying Software Engineering. >
 - 🙋🏻 Busco compartilhar minha experiência ao longo do aprendizado, para ajudar outras pessoas assim como eu que estão aprendendo algo na parte de dev web!< I seek to share my experience throughout learning, to help other people like me who are learning something in the dev web part! >
-- 📫 Você pode entrar em contato comigo pelo e-mail: guto.baroni@gmail.com < You can find me by e-mail guto.baroni@gmail.com >
+- 📫 Você pode entrar em contato comigo pelo e-mail: guto.baroni@gmail.com< You can find me by e-mail guto.baroni@gmail.com >
 <div align="center">
   <a href="https://github.com/augusto639514">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto639514&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
