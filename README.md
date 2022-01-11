@@ -1,7 +1,7 @@
-- ✌🏻 Olá, meu nome é Augusto! < Hi, my name is Augusto! >
-- 💡 Estou interessado atualmente em aprender as liguagens mais utilizadas na criação de um site!< I am currently interested in learning the most used languages in creating a website! >
-- 💻 E atualmente estou estudando Engenharia de Software na universidade UTFPR-CP! < And I'm currently studying Software Engineering at UTFPR-CP university! >
-- 📫 Você pode entrar em contato comigo pelo e-mail: guto.baroni@gmail.com< You can find me by e-mail: guto.baroni@gmail.com >
+- ✌🏻 Olá, meu nome é Augusto!
+- 💡 Estou interessado atualmente em aprender as liguagens mais utilizadas na criação de um site!
+- 💻 E atualmente estou estudando Engenharia de Software na universidade UTFPR-CP!
+- 📫 Você pode entrar em contato comigo pelo e-mail: guto.baroni@gmail.com
 <div align="center">
   <a href="https://github.com/augusto639514">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto639514&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
