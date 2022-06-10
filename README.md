@@ -1,8 +1,8 @@
 Hi there, I’m Augusto!👋🏻
 
-💻 I'm a Software Engineering student at UTFPR in Cornélio Procópio.
+I'm a Software Engineering student at UTFPR in Cornélio Procópio- Paraná, Brazil.
 
-📫 You can contact me by email: guto.baroni@gmail.com
+You can contact me by email: guto.baroni@gmail.com
 
 <div align="center">
   <a href="https://github.com/AugustoBSimionato">
