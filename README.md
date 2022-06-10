@@ -1,4 +1,4 @@
-👋🏻 Hello, I’m Augusto!
+Hi there, I’m Augusto!👋🏻
 
 💻 I'm a Software Engineering student at UTFPR in Cornélio Procópio.
 
