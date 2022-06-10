@@ -1,18 +1,9 @@
-🇧🇷
-
-👋🏻 Olá, sou o Augusto!
-
-💻 Sou estudante de Engenharia de Software na UTFPR em Cornélio Procópio.
-
-📫 Você pode entrar em contato comigo pelo e-mail: guto.baroni@gmail.com
-
-🇺🇸
-
 👋🏻 Hello, I’m Augusto!
 
 💻 I'm a Software Engineering student at UTFPR in Cornélio Procópio.
 
 📫 You can contact me by email: guto.baroni@gmail.com
+
 <div align="center">
   <a href="https://github.com/AugustoBSimionato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoBSimionato&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
