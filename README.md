@@ -25,7 +25,7 @@ A software developer who is also passionate about user interface design.
   <img align="center" alt="Guto-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
   
-  ##
+### Contact Me
  
 <div> 
   <a href="https://instagram.com/gutobaroni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
