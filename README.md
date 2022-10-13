@@ -1,4 +1,4 @@
-Hi there, I’m Augusto!👋🏻
+Hi there👋🏻
 
 I'm a Software Engineering student at UTFPR in Cornélio Procópio - Paraná, Brazil.
 
