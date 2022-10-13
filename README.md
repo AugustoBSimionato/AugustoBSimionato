@@ -1,16 +1,19 @@
-Hi there👋🏻
+### About Me
 
-I'm a Software Engineering student at UTFPR in Cornélio Procópio - Paraná, Brazil.
+Hi there👋🏻 I'm Augusto Simionato, 20 years old, currently living in Brazil.
 
-You can contact me by email: guto.baroni@gmail.com
+I am a graduate student in Software Engineer at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná.
 
-And if you want to know more about me, here is my linktree: https://linktr.ee/augustobsimionato
+A software developer who is also passionate about user interface design.
 
-<div align="center">
+### Technologies
+
+<!--<div align="center">-->
   <a href="https://github.com/AugustoBSimionato">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoBSimionato&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBSimionato&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoBSimionato&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>-->
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBSimionato&layout=compact&langs_count=7&theme=github_dark"/> -->
+<!--</div>-->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
