@@ -4,7 +4,7 @@ Hi there👋🏻 I'm Augusto Simionato, 20 years old, currently living in Brazil
 
 I am a graduate student in Software Engineer at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná.
 
-A software developer who is also passionate about user interface design.
+A software engineer who is also passionate about user interface design.
 
 ### Technologies
 
