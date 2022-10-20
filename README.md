@@ -4,7 +4,7 @@ Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated
 
 I'm Augusto Simionato, 20 years old, currently living in Brazil.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> I am a graduate student in Software Engineer at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná.
+I am a graduate student in Software Engineer at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná.
 
 A software engineer who is also passionate about user interface design.
 
