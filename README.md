@@ -1,8 +1,10 @@
 ### About Me
 
-Hi there👋🏻 I'm Augusto Simionato, 20 years old, currently living in Brazil.
+Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-I am a graduate student in Software Engineer at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná.
+I'm Augusto Simionato, 20 years old, currently living in Brazil.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> I am a graduate student in Software Engineer at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná.
 
 A software engineer who is also passionate about user interface design.
 
@@ -30,7 +32,7 @@ A software engineer who is also passionate about user interface design.
 <div> 
   <!--<a href="https://instagram.com/gutobaroni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <!--<a href = "mailto:guto.baroni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
-  <!--<a href="https://www.linkedin.com/in/augusto-baroni-simionato-63ba8721b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.linkedin.com/in/augusto-baroni-simionato-63ba8721b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <a href="https://linktr.ee/augustobsimionato" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%230077B5?style=for-the-badge&logo=linktree&logoColor=green" target="_blank"></a>
 </div>
