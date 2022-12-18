@@ -8,16 +8,7 @@ I am a graduate student in Software Engineer at Federal Technological University
 
 Also a software engineer who is passionate about user interface design.
 
-## Technologies
-
-### Learning now
-<div style="display: inline_block">
-   <img align="center" alt="Guto-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
-</div>
-
-<br>
-
-### I've worked with
+## Technologies I've worked
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
