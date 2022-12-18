@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
@@ -8,13 +8,16 @@ I am a graduate student in Software Engineer at Federal Technological University
 
 Also a software engineer who is passionate about user interface design.
 
-### Technologies
+## Technologies
 
-<!--<div align="center">-->
-  <a href="https://github.com/AugustoBSimionato">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoBSimionato&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>-->
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoBSimionato&layout=compact&langs_count=7&theme=github_dark"/> -->
-<!--</div>-->
+### Learning now
+<div style="display: inline_block">
+   <img align="center" alt="Guto-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
+</div>
+
+<br>
+
+### I've worked with
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
