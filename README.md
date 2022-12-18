@@ -36,3 +36,6 @@ Also a software engineer who is passionate about user interface design.
   
   <a href="https://linktr.ee/augustobsimionato" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%230077B5?style=for-the-badge&logo=linktree&logoColor=green" target="_blank"></a>
 </div>
+
+ <!--![Visitor Count](https://profile-counter.glitch.me/{AugustoBSimionato}/count.svg)-->
+ ![](https://komarev.com/ghpvc/?username=AugustoBSimionato)
