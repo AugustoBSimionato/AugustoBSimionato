@@ -8,7 +8,7 @@ I am a Software Engineer student at Federal Technological University of Paraná 
 
 > Also a software engineer who is passionate about UI and UX.
 
-## Technologies I've worked
+## Technologies I've worked with or had experience with
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
