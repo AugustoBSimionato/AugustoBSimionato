@@ -2,7 +2,7 @@
 
 I'm Augusto, 20 years old, currently living in Brazil.
 
-I am a Software Engineer student at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná.
+I am a Software Engineer student at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná and iOS Developer
 
 > Also a software engineer who is passionate about UI and UX.
 
