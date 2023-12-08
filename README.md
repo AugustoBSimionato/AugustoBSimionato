@@ -25,7 +25,6 @@ I am a Software Engineer student at Federal Technological University of Paraná 
  
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/augusto-baroni-simionato-63ba8721b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://linktr.ee/augustobsimionato" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%230077B5?style=for-the-badge&logo=linktree&logoColor=green" target="_blank"></a>
   
   ![](https://komarev.com/ghpvc/?username=AugustoBSimionato)
 </div>
