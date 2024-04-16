@@ -20,13 +20,3 @@ I am a Software Engineer student at Federal Technological University of Paraná 
   <img align="center" alt="Guto-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Guto-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-  
-### Contact Me
- 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/augusto-baroni-simionato-63ba8721b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![](https://komarev.com/ghpvc/?username=AugustoBSimionato)
-</div>
-
- <!--![Visitor Count](https://profile-counter.glitch.me/{AugustoBSimionato}/count.svg)-->
