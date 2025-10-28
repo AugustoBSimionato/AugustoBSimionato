@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+# Hi there! 👋
 
 I'm Augusto, 22 years old, currently living in Brazil.
 
