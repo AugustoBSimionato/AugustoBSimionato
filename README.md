@@ -10,13 +10,9 @@ I am a Software Engineer student at Federal Technological University of Paraná 
 
 ## Technologies I've worked with or had experience with
 
-- JavaScript
-- HTML5
-- CSS3
-- React
-- WordPress
-- MySQL
+- JavaScript - HTML5 - CSS3 - React - WordPress
+- MySQL - SQL
 - C
 - Kotlin
-- Swift
+- Swift - SwiftUI - UKit
 - Java
