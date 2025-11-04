@@ -14,7 +14,5 @@ I am a Software Engineer student at Federal Technological University of Paraná 
 - MySQL - SQL
 - C
 - Kotlin
-- Swift - SwiftUI - UKit
-  |
-  - > Combine - Native Frameworks in general
+- Swift - SwiftUI - UKit - Combine - Native Frameworks in general that use iPhone capabilities
 - Java
