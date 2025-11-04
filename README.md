@@ -15,4 +15,6 @@ I am a Software Engineer student at Federal Technological University of Paraná 
 - C
 - Kotlin
 - Swift - SwiftUI - UKit
+  |
+  - > Combine - Native Frameworks in general
 - Java
