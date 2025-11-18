@@ -9,6 +9,8 @@ I am a Software Engineer student at Federal Technological University of Paraná 
 > You can download Loop using this link: https://apps.apple.com/br/app/loop-podcast-player/id6736364779?l
 > 
 > Follow me on Threads: https://www.threads.com/@gutobaroni
+>
+> Check what I'm thinking: https://augustobsimionato.github.io/gutobaroni-blog/
 
 ## Technologies I've worked with or had experience with
 
