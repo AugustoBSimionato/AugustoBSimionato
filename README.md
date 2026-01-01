@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Augusto, 22 years old, currently living in Brazil.
+I'm Augusto, 23 years old, currently living in Brazil.
 
 I am a Software Engineer student at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná and iOS Developer
 
