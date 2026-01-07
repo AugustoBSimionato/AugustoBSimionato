@@ -1,22 +1,28 @@
-# Hi there! 👋
+# Hi — I'm Augusto 👋
 
-I'm Augusto, 23 years old, currently living in Brazil.
+Indie iOS dev, curious tinkerer, and UI nerd. I make apps that I actually use — like Loop (a simple, focuses podcast player) — and contribute to open tools like Mockit.
 
-I am a Software Engineer student at Federal Technological University of Paraná (UTFPR, Universidade Tecnológica Federal do Paraná) in Cornélio Procópio, Paraná and iOS Developer
+This repo contains my GitHub profile config, notes, and a few small projects.
 
-> Also a software engineer who is passionate about UI and UX and developed Loop podcast player.
-> 
-> You can download Loop using this link: https://apps.apple.com/br/app/loop-podcast-player/id6736364779?l
-> 
-> Follow me on Threads: https://www.threads.com/@gutobaroni
->
-> Check what I'm thinking: https://augustobsimionato.github.io/gutobaroni-blog/
+## Projects
 
-## Technologies I've worked with or had experience with
+- Loop — Podcast Player
+  - A lightweight, design-first podcast player I built for iPhone. Get it on the App Store: https://apps.apple.com/br/app/loop-podcast-player/id6736364779?l
 
-- JavaScript - HTML5 - CSS3 - React - WordPress
-- MySQL - SQL
+- Mockit
+  - A macOS app for quickly mocking up interactions and flows. Check it out: https://mockit-app.framer.website/
+
+## Tech I mess with
+
+- Swift, SwiftUI, UIKit, Combine
+- Kotlin, Java
+- JavaScript, React, HTML, CSS
+- SQL, MySQL
 - C
-- Kotlin
-- Swift - SwiftUI - UKit - Combine - Native Frameworks in general that use iPhone capabilities
-- Java
+
+## Links
+
+- Threads: https://www.threads.com/@gutobaroni
+- Blog: https://augustobsimionato.github.io/gutobaroni-blog/
+
+If you like what you see — say hi. I respond to good ideas, snacks, and pull requests.
